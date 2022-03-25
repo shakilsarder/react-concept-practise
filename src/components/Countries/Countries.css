@@ -1,0 +1,8 @@
+h2{
+    color: brown;
+}
+.Countries{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    grid-gap: 10px;
+}
